@@ -150,3 +150,8 @@ Python ETL
 SQL SERVER      
 POWER BI      
 BUSINESS DECISION SUPPORT
+<img width="100%" alt="supply chain dashboard preview(executive command center)" src="https://github.com/user-attachments/assets/b68af1e8-3251-4b72-a45b-2b6d51ef7d66" />
+<img width="100%" alt="supply chain dashboard preview(operation deep dive)" src="https://github.com/user-attachments/assets/64faf363-c16d-4878-a2d4-826aa0004b90" />
+<img width="100%" alt="supply chain dashboard preview(fulfillment detail)" src="https://github.com/user-attachments/assets/81d043ef-d8d1-43c3-96d4-c8f092d7df36" />
+
+
