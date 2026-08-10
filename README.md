@@ -7,7 +7,7 @@ The project transforms raw transactional supply-chain data into a structured ana
 It combines:
 
 - Python-based data ingestion and preparation
-- SQL Server data warehousing and star-schema modeling
+- SQLite Analytical Warehouse and star-schema modeling
 - Power BI semantic modeling
 - DAX-based business metrics and dynamic executive insights
 - Interactive operational and profitability analysis
@@ -147,7 +147,7 @@ The project follows a layered analytical architecture:
 
 RAW TRANSACTIONAL DATA        
 Python ETL
-SQL SERVER      
+SQLite Analytical Warehouse 
 POWER BI      
 BUSINESS DECISION SUPPORT
 <img width="100%" alt="supply chain dashboard preview(executive command center)" src="https://github.com/user-attachments/assets/b68af1e8-3251-4b72-a45b-2b6d51ef7d66" />
