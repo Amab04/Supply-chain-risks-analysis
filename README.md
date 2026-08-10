@@ -1,6 +1,6 @@
 Supply Chain Risk & Predictive Analytics Platform
 
-An end-to-end supply chain analytics platform built to help operations and management teams identify delivery risks, monitor service level performance, evaluate product profitability, and anticipate future revenue trends.
+A supply chain analytics platform built to help operations and management teams identify delivery risks, monitor service level performance, evaluate product profitability, and anticipate future revenue trends.
 
 The project transforms raw transactional supply-chain data into a structured analytical warehouse and an interactive Power BI decision support platform.
 
@@ -11,7 +11,7 @@ It combines:
 - Power BI semantic modeling
 - DAX-based business metrics and dynamic executive insights
 - Interactive operational and profitability analysis
-- Time-series revenue forecasting
+- Time series revenue forecasting
 
 My goal was not simply to build a dashboard, but to create a reusable analytical workflow that moves from raw operational data to business decisions.
 
@@ -56,7 +56,7 @@ Identify locations, products, and shipping operations associated with elevated d
 
  2. SLA Performance
 
-Measure delivery performance against defined service-level targets and identify areas requiring intervention.
+Measure delivery performance against defined service level targets and identify areas requiring intervention.
 
  3. Profitability
 
@@ -78,8 +78,8 @@ This platform was built to:
 - Identify delivery bottlenecks and SLA breaches.
 - Compare profitability against operational risk.
 - Provide management with interactive executive insights.
-- Enable drill-down from high-level KPIs to operational details.
-- Forecast future revenue using time-series analysis.
+- Enable drill down from high level KPIs to operational details.
+- Forecast future revenue using time series analysis.
 
 
 
